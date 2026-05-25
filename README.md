@@ -102,7 +102,7 @@ Strong problem-solving mindset, self-directed learning, teamwork, clear communic
 
 ## GitHub stats
 
-![ManhThang203 GitHub stats](https://github-readme-stats.vercel.app/api?username=manh-thang-203&show_icons=true&theme=radical)
+![ManhThang203 GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhThang203&show_icons=true&theme=radical)
 ---
 
 ## Connect with Me
