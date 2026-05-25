@@ -102,7 +102,7 @@ Strong problem-solving mindset, self-directed learning, teamwork, clear communic
 
 ## GitHub stats
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ManhThang203">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhThang203&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&cache_seconds=1800" />
   </a>
@@ -110,6 +110,12 @@ Strong problem-solving mindset, self-directed learning, teamwork, clear communic
   <a href="https://github.com/ManhThang203">
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=ManhThang203&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
   </a>
+</div> -->
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManhThang203&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dark&cache_seconds=86400" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManhThang203&layout=compact&hide_border=true&theme=dark&langs_count=8&cache_seconds=86400" alt="Top languages" />
+
 </div>
 
 ---
