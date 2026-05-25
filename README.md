@@ -103,11 +103,14 @@ Strong problem-solving mindset, self-directed learning, teamwork, clear communic
 ## GitHub stats
 
 <p align="center">
-  <img src="[![ManhThang203's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhThang203&show_icons=true&theme=dark)](https://github.com/ManhThang203)" height="160" alt="GitHub Stats" />
+  <a href="https://github.com/ManhThang203">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManhThang203&show_icons=true&theme=dark" height="160" alt="GitHub Stats" />
+  </a>
   &nbsp;&nbsp;
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhThang203&layout=compact&theme=dark)](https://github.com/ManhThang203)" height="160" alt="Top Languages" />
+  <a href="https://github.com/ManhThang203">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhThang203&layout=compact&theme=dark" height="160" alt="Top Languages" />
+  </a>
 </p>
-
 ---
 
 ## Connect with Me
